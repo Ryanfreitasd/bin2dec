@@ -1,0 +1,23 @@
+input {
+    background-color: black;
+    color: #fff;
+    border: 2px solid #fff;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
+
+.error {
+    color: tomato;
+    text-align: center;
+    font-weight: bold;
+}
+
+#result {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color:powderblue;
+}

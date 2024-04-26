@@ -1,5 +1,8 @@
 # Bin2dec
 
+## Description
+This project convert a binary value into decimal value
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
 
 ## Development server
